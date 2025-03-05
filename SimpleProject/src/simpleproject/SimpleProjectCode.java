@@ -6,6 +6,6 @@ public class SimpleProjectCode {
 	// This is where the code actually is
 	public void run()
 	{
-		System.out.println("Hello");
+		System.out.println("It's me...");
 	}
 }
